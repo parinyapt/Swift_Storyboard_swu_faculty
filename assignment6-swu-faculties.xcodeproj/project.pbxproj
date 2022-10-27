@@ -16,6 +16,31 @@
 		AFEFD7C7290AFABD000A9C2E /* assignment6_swu_facultiesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFEFD7C6290AFABD000A9C2E /* assignment6_swu_facultiesTests.swift */; };
 		AFEFD7D1290AFABD000A9C2E /* assignment6_swu_facultiesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFEFD7D0290AFABD000A9C2E /* assignment6_swu_facultiesUITests.swift */; };
 		AFEFD7D3290AFABD000A9C2E /* assignment6_swu_facultiesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFEFD7D2290AFABD000A9C2E /* assignment6_swu_facultiesUITestsLaunchTests.swift */; };
+		AFEFD7E0290B0629000A9C2E /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFEFD7DF290B0629000A9C2E /* TableViewController.swift */; };
+		AFEFD7E2290B0696000A9C2E /* FacultyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFEFD7E1290B0696000A9C2E /* FacultyCell.swift */; };
+		AFEFD7E4290B07B9000A9C2E /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFEFD7E3290B07B9000A9C2E /* Data.swift */; };
+		AFEFD7FA290B09DA000A9C2E /* SWU_College_Creative_Industry_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7E5290B09D9000A9C2E /* SWU_College_Creative_Industry_TH_Color.jpg */; };
+		AFEFD7FB290B09DA000A9C2E /* SWU_Economics_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7E6290B09D9000A9C2E /* SWU_Economics_TH_Color.jpg */; };
+		AFEFD7FC290B09DA000A9C2E /* SWU_Agricultural_Product_Innovation_Technology_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7E7290B09D9000A9C2E /* SWU_Agricultural_Product_Innovation_Technology_TH_Color.jpg */; };
+		AFEFD7FD290B09DA000A9C2E /* SWU_Graduate_School_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7E8290B09D9000A9C2E /* SWU_Graduate_School_TH_Color.jpg */; };
+		AFEFD7FE290B09DA000A9C2E /* SWU_Environmental_Culture_Ecotourism_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7E9290B09D9000A9C2E /* SWU_Environmental_Culture_Ecotourism_TH_Color.jpg */; };
+		AFEFD7FF290B09DA000A9C2E /* SWU_Medicine_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7EA290B09D9000A9C2E /* SWU_Medicine_TH_Color.jpg */; };
+		AFEFD800290B09DA000A9C2E /* SWU_Physical_Therapy_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7EB290B09D9000A9C2E /* SWU_Physical_Therapy_TH_Color.jpg */; };
+		AFEFD801290B09DA000A9C2E /* SWU_College_Social_Communication_Innovation_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7EC290B09D9000A9C2E /* SWU_College_Social_Communication_Innovation_TH_Color.jpg */; };
+		AFEFD802290B09DA000A9C2E /* SWU_Education_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7ED290B09D9000A9C2E /* SWU_Education_TH_Color.jpg */; };
+		AFEFD803290B09DA000A9C2E /* SWU_Engineering_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7EE290B09D9000A9C2E /* SWU_Engineering_TH_Color.jpg */; };
+		AFEFD804290B09DA000A9C2E /* SWU_Business_Administration_Society_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7EF290B09D9000A9C2E /* SWU_Business_Administration_Society_TH_Color.jpg */; };
+		AFEFD805290B09DA000A9C2E /* SWU_Nursing_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7F0290B09D9000A9C2E /* SWU_Nursing_TH_Color.jpg */; };
+		AFEFD806290B09DA000A9C2E /* SWU_Dentistry_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7F1290B09D9000A9C2E /* SWU_Dentistry_TH_Color.jpg */; };
+		AFEFD807290B09DA000A9C2E /* SWU_Social_Sciences_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7F2290B09D9000A9C2E /* SWU_Social_Sciences_TH_Color.jpg */; };
+		AFEFD808290B09DA000A9C2E /* SWU_International_College_Sustainability_Studies_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7F3290B09D9000A9C2E /* SWU_International_College_Sustainability_Studies_TH_Color.jpg */; };
+		AFEFD809290B09DA000A9C2E /* SWU_Humanities_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7F4290B09D9000A9C2E /* SWU_Humanities_TH_Color.jpg */; };
+		AFEFD80A290B09DA000A9C2E /* SWU_Science_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7F5290B09D9000A9C2E /* SWU_Science_TH_Color.jpg */; };
+		AFEFD80B290B09DA000A9C2E /* SWU_Pharmacy_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7F6290B09D9000A9C2E /* SWU_Pharmacy_TH_Color.jpg */; };
+		AFEFD80C290B09DA000A9C2E /* SWU_Bodhivijjalaya_College_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7F7290B09D9000A9C2E /* SWU_Bodhivijjalaya_College_TH_Color.jpg */; };
+		AFEFD80D290B09DA000A9C2E /* SWU_Physical_Education_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7F8290B09D9000A9C2E /* SWU_Physical_Education_TH_Color.jpg */; };
+		AFEFD80E290B09DA000A9C2E /* SWU_Fine_Arts_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7F9290B09DA000A9C2E /* SWU_Fine_Arts_TH_Color.jpg */; };
+		AFEFD812290B0EE8000A9C2E /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD811290B0EE8000A9C2E /* test.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +74,31 @@
 		AFEFD7CC290AFABD000A9C2E /* assignment6-swu-facultiesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "assignment6-swu-facultiesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFEFD7D0290AFABD000A9C2E /* assignment6_swu_facultiesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignment6_swu_facultiesUITests.swift; sourceTree = "<group>"; };
 		AFEFD7D2290AFABD000A9C2E /* assignment6_swu_facultiesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignment6_swu_facultiesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AFEFD7DF290B0629000A9C2E /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		AFEFD7E1290B0696000A9C2E /* FacultyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacultyCell.swift; sourceTree = "<group>"; };
+		AFEFD7E3290B07B9000A9C2E /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		AFEFD7E5290B09D9000A9C2E /* SWU_College_Creative_Industry_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_College_Creative_Industry_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7E6290B09D9000A9C2E /* SWU_Economics_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Economics_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7E7290B09D9000A9C2E /* SWU_Agricultural_Product_Innovation_Technology_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Agricultural_Product_Innovation_Technology_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7E8290B09D9000A9C2E /* SWU_Graduate_School_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Graduate_School_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7E9290B09D9000A9C2E /* SWU_Environmental_Culture_Ecotourism_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Environmental_Culture_Ecotourism_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7EA290B09D9000A9C2E /* SWU_Medicine_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Medicine_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7EB290B09D9000A9C2E /* SWU_Physical_Therapy_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Physical_Therapy_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7EC290B09D9000A9C2E /* SWU_College_Social_Communication_Innovation_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_College_Social_Communication_Innovation_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7ED290B09D9000A9C2E /* SWU_Education_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Education_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7EE290B09D9000A9C2E /* SWU_Engineering_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Engineering_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7EF290B09D9000A9C2E /* SWU_Business_Administration_Society_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Business_Administration_Society_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7F0290B09D9000A9C2E /* SWU_Nursing_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Nursing_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7F1290B09D9000A9C2E /* SWU_Dentistry_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Dentistry_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7F2290B09D9000A9C2E /* SWU_Social_Sciences_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Social_Sciences_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7F3290B09D9000A9C2E /* SWU_International_College_Sustainability_Studies_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_International_College_Sustainability_Studies_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7F4290B09D9000A9C2E /* SWU_Humanities_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Humanities_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7F5290B09D9000A9C2E /* SWU_Science_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Science_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7F6290B09D9000A9C2E /* SWU_Pharmacy_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Pharmacy_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7F7290B09D9000A9C2E /* SWU_Bodhivijjalaya_College_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Bodhivijjalaya_College_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7F8290B09D9000A9C2E /* SWU_Physical_Education_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Physical_Education_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD7F9290B09DA000A9C2E /* SWU_Fine_Arts_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Fine_Arts_TH_Color.jpg; sourceTree = "<group>"; };
+		AFEFD811290B0EE8000A9C2E /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +129,8 @@
 		AFEFD7A3290AFABB000A9C2E = {
 			isa = PBXGroup;
 			children = (
+				AFEFD810290B0EC9000A9C2E /* video */,
+				AFEFD80F290B09DE000A9C2E /* logo */,
 				AFEFD7AE290AFABB000A9C2E /* assignment6-swu-faculties */,
 				AFEFD7C5290AFABD000A9C2E /* assignment6-swu-facultiesTests */,
 				AFEFD7CF290AFABD000A9C2E /* assignment6-swu-facultiesUITests */,
@@ -103,9 +155,12 @@
 				AFEFD7B1290AFABB000A9C2E /* SceneDelegate.swift */,
 				AFEFD7B3290AFABB000A9C2E /* ViewController.swift */,
 				AFEFD7B5290AFABB000A9C2E /* Main.storyboard */,
+				AFEFD7DF290B0629000A9C2E /* TableViewController.swift */,
 				AFEFD7B8290AFABD000A9C2E /* Assets.xcassets */,
 				AFEFD7BA290AFABD000A9C2E /* LaunchScreen.storyboard */,
 				AFEFD7BD290AFABD000A9C2E /* Info.plist */,
+				AFEFD7E1290B0696000A9C2E /* FacultyCell.swift */,
+				AFEFD7E3290B07B9000A9C2E /* Data.swift */,
 			);
 			path = "assignment6-swu-faculties";
 			sourceTree = "<group>";
@@ -125,6 +180,42 @@
 				AFEFD7D2290AFABD000A9C2E /* assignment6_swu_facultiesUITestsLaunchTests.swift */,
 			);
 			path = "assignment6-swu-facultiesUITests";
+			sourceTree = "<group>";
+		};
+		AFEFD80F290B09DE000A9C2E /* logo */ = {
+			isa = PBXGroup;
+			children = (
+				AFEFD7E7290B09D9000A9C2E /* SWU_Agricultural_Product_Innovation_Technology_TH_Color.jpg */,
+				AFEFD7F7290B09D9000A9C2E /* SWU_Bodhivijjalaya_College_TH_Color.jpg */,
+				AFEFD7EF290B09D9000A9C2E /* SWU_Business_Administration_Society_TH_Color.jpg */,
+				AFEFD7E5290B09D9000A9C2E /* SWU_College_Creative_Industry_TH_Color.jpg */,
+				AFEFD7EC290B09D9000A9C2E /* SWU_College_Social_Communication_Innovation_TH_Color.jpg */,
+				AFEFD7F1290B09D9000A9C2E /* SWU_Dentistry_TH_Color.jpg */,
+				AFEFD7E6290B09D9000A9C2E /* SWU_Economics_TH_Color.jpg */,
+				AFEFD7ED290B09D9000A9C2E /* SWU_Education_TH_Color.jpg */,
+				AFEFD7EE290B09D9000A9C2E /* SWU_Engineering_TH_Color.jpg */,
+				AFEFD7E9290B09D9000A9C2E /* SWU_Environmental_Culture_Ecotourism_TH_Color.jpg */,
+				AFEFD7F9290B09DA000A9C2E /* SWU_Fine_Arts_TH_Color.jpg */,
+				AFEFD7E8290B09D9000A9C2E /* SWU_Graduate_School_TH_Color.jpg */,
+				AFEFD7F4290B09D9000A9C2E /* SWU_Humanities_TH_Color.jpg */,
+				AFEFD7F3290B09D9000A9C2E /* SWU_International_College_Sustainability_Studies_TH_Color.jpg */,
+				AFEFD7EA290B09D9000A9C2E /* SWU_Medicine_TH_Color.jpg */,
+				AFEFD7F0290B09D9000A9C2E /* SWU_Nursing_TH_Color.jpg */,
+				AFEFD7F6290B09D9000A9C2E /* SWU_Pharmacy_TH_Color.jpg */,
+				AFEFD7F8290B09D9000A9C2E /* SWU_Physical_Education_TH_Color.jpg */,
+				AFEFD7EB290B09D9000A9C2E /* SWU_Physical_Therapy_TH_Color.jpg */,
+				AFEFD7F5290B09D9000A9C2E /* SWU_Science_TH_Color.jpg */,
+				AFEFD7F2290B09D9000A9C2E /* SWU_Social_Sciences_TH_Color.jpg */,
+			);
+			name = logo;
+			sourceTree = "<group>";
+		};
+		AFEFD810290B0EC9000A9C2E /* video */ = {
+			isa = PBXGroup;
+			children = (
+				AFEFD811290B0EE8000A9C2E /* test.mp4 */,
+			);
+			name = video;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,9 +322,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFEFD80A290B09DA000A9C2E /* SWU_Science_TH_Color.jpg in Resources */,
+				AFEFD7FB290B09DA000A9C2E /* SWU_Economics_TH_Color.jpg in Resources */,
+				AFEFD7FC290B09DA000A9C2E /* SWU_Agricultural_Product_Innovation_Technology_TH_Color.jpg in Resources */,
+				AFEFD80E290B09DA000A9C2E /* SWU_Fine_Arts_TH_Color.jpg in Resources */,
 				AFEFD7BC290AFABD000A9C2E /* LaunchScreen.storyboard in Resources */,
+				AFEFD80C290B09DA000A9C2E /* SWU_Bodhivijjalaya_College_TH_Color.jpg in Resources */,
+				AFEFD80B290B09DA000A9C2E /* SWU_Pharmacy_TH_Color.jpg in Resources */,
 				AFEFD7B9290AFABD000A9C2E /* Assets.xcassets in Resources */,
+				AFEFD803290B09DA000A9C2E /* SWU_Engineering_TH_Color.jpg in Resources */,
+				AFEFD808290B09DA000A9C2E /* SWU_International_College_Sustainability_Studies_TH_Color.jpg in Resources */,
+				AFEFD802290B09DA000A9C2E /* SWU_Education_TH_Color.jpg in Resources */,
+				AFEFD80D290B09DA000A9C2E /* SWU_Physical_Education_TH_Color.jpg in Resources */,
+				AFEFD806290B09DA000A9C2E /* SWU_Dentistry_TH_Color.jpg in Resources */,
+				AFEFD812290B0EE8000A9C2E /* test.mp4 in Resources */,
+				AFEFD805290B09DA000A9C2E /* SWU_Nursing_TH_Color.jpg in Resources */,
+				AFEFD804290B09DA000A9C2E /* SWU_Business_Administration_Society_TH_Color.jpg in Resources */,
+				AFEFD7FF290B09DA000A9C2E /* SWU_Medicine_TH_Color.jpg in Resources */,
+				AFEFD7FA290B09DA000A9C2E /* SWU_College_Creative_Industry_TH_Color.jpg in Resources */,
+				AFEFD7FE290B09DA000A9C2E /* SWU_Environmental_Culture_Ecotourism_TH_Color.jpg in Resources */,
+				AFEFD807290B09DA000A9C2E /* SWU_Social_Sciences_TH_Color.jpg in Resources */,
+				AFEFD7FD290B09DA000A9C2E /* SWU_Graduate_School_TH_Color.jpg in Resources */,
+				AFEFD809290B09DA000A9C2E /* SWU_Humanities_TH_Color.jpg in Resources */,
+				AFEFD800290B09DA000A9C2E /* SWU_Physical_Therapy_TH_Color.jpg in Resources */,
 				AFEFD7B7290AFABB000A9C2E /* Main.storyboard in Resources */,
+				AFEFD801290B09DA000A9C2E /* SWU_College_Social_Communication_Innovation_TH_Color.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,9 +371,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFEFD7E2290B0696000A9C2E /* FacultyCell.swift in Sources */,
+				AFEFD7E4290B07B9000A9C2E /* Data.swift in Sources */,
 				AFEFD7B4290AFABB000A9C2E /* ViewController.swift in Sources */,
 				AFEFD7B0290AFABB000A9C2E /* AppDelegate.swift in Sources */,
 				AFEFD7B2290AFABB000A9C2E /* SceneDelegate.swift in Sources */,
+				AFEFD7E0290B0629000A9C2E /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
