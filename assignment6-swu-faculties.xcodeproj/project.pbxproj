@@ -8,6 +8,26 @@
 
 /* Begin PBXBuildFile section */
 		AF7DEB55290C349F00C2960A /* Agricultural_Product_Innovation_Technology.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB54290C349F00C2960A /* Agricultural_Product_Innovation_Technology.mp4 */; };
+		AF7DEB81290C38B900C2960A /* Bodhivijjalaya_College.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB80290C38B900C2960A /* Bodhivijjalaya_College.mp4 */; };
+		AF7DEB95290C38C600C2960A /* Physical_Therapy.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB82290C38C500C2960A /* Physical_Therapy.mp4 */; };
+		AF7DEB96290C38C600C2960A /* Physical_Education.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB83290C38C500C2960A /* Physical_Education.mp4 */; };
+		AF7DEB97290C38C600C2960A /* Fine_Arts.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB84290C38C500C2960A /* Fine_Arts.mp4 */; };
+		AF7DEB98290C38C600C2960A /* Business_Administration_Society.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB85290C38C500C2960A /* Business_Administration_Society.mp4 */; };
+		AF7DEB99290C38C600C2960A /* Education.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB86290C38C500C2960A /* Education.mp4 */; };
+		AF7DEB9A290C38C600C2960A /* Graduate_School.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB87290C38C500C2960A /* Graduate_School.mp4 */; };
+		AF7DEB9B290C38C600C2960A /* Medicine.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB88290C38C500C2960A /* Medicine.mp4 */; };
+		AF7DEB9C290C38C600C2960A /* Nursing.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB89290C38C500C2960A /* Nursing.mp4 */; };
+		AF7DEB9D290C38C600C2960A /* Social_Sciences.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB8A290C38C500C2960A /* Social_Sciences.mp4 */; };
+		AF7DEB9E290C38C600C2960A /* Pharmacy.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB8B290C38C500C2960A /* Pharmacy.mp4 */; };
+		AF7DEB9F290C38C600C2960A /* Economics.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB8C290C38C500C2960A /* Economics.mp4 */; };
+		AF7DEBA0290C38C600C2960A /* College_Social_Communication_Innovation.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB8D290C38C500C2960A /* College_Social_Communication_Innovation.mp4 */; };
+		AF7DEBA1290C38C600C2960A /* Science.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB8E290C38C600C2960A /* Science.mp4 */; };
+		AF7DEBA2290C38C600C2960A /* International_College_Sustainability_Studies.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB8F290C38C600C2960A /* International_College_Sustainability_Studies.mp4 */; };
+		AF7DEBA3290C38C600C2960A /* College_Creative_Industry.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB90290C38C600C2960A /* College_Creative_Industry.mp4 */; };
+		AF7DEBA4290C38C600C2960A /* Humanities.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB91290C38C600C2960A /* Humanities.mp4 */; };
+		AF7DEBA5290C38C600C2960A /* Engineering.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB92290C38C600C2960A /* Engineering.mp4 */; };
+		AF7DEBA6290C38C600C2960A /* Environmental_Culture_Ecotourism.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB93290C38C600C2960A /* Environmental_Culture_Ecotourism.mp4 */; };
+		AF7DEBA7290C38C600C2960A /* Dentistry.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB94290C38C600C2960A /* Dentistry.mp4 */; };
 		AFEFD7B0290AFABB000A9C2E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFEFD7AF290AFABB000A9C2E /* AppDelegate.swift */; };
 		AFEFD7B2290AFABB000A9C2E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFEFD7B1290AFABB000A9C2E /* SceneDelegate.swift */; };
 		AFEFD7B4290AFABB000A9C2E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFEFD7B3290AFABB000A9C2E /* ViewController.swift */; };
@@ -62,6 +82,26 @@
 
 /* Begin PBXFileReference section */
 		AF7DEB54290C349F00C2960A /* Agricultural_Product_Innovation_Technology.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Agricultural_Product_Innovation_Technology.mp4; sourceTree = "<group>"; };
+		AF7DEB80290C38B900C2960A /* Bodhivijjalaya_College.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Bodhivijjalaya_College.mp4; sourceTree = "<group>"; };
+		AF7DEB82290C38C500C2960A /* Physical_Therapy.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Physical_Therapy.mp4; sourceTree = "<group>"; };
+		AF7DEB83290C38C500C2960A /* Physical_Education.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Physical_Education.mp4; sourceTree = "<group>"; };
+		AF7DEB84290C38C500C2960A /* Fine_Arts.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fine_Arts.mp4; sourceTree = "<group>"; };
+		AF7DEB85290C38C500C2960A /* Business_Administration_Society.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Business_Administration_Society.mp4; sourceTree = "<group>"; };
+		AF7DEB86290C38C500C2960A /* Education.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Education.mp4; sourceTree = "<group>"; };
+		AF7DEB87290C38C500C2960A /* Graduate_School.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Graduate_School.mp4; sourceTree = "<group>"; };
+		AF7DEB88290C38C500C2960A /* Medicine.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Medicine.mp4; sourceTree = "<group>"; };
+		AF7DEB89290C38C500C2960A /* Nursing.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Nursing.mp4; sourceTree = "<group>"; };
+		AF7DEB8A290C38C500C2960A /* Social_Sciences.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Social_Sciences.mp4; sourceTree = "<group>"; };
+		AF7DEB8B290C38C500C2960A /* Pharmacy.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Pharmacy.mp4; sourceTree = "<group>"; };
+		AF7DEB8C290C38C500C2960A /* Economics.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Economics.mp4; sourceTree = "<group>"; };
+		AF7DEB8D290C38C500C2960A /* College_Social_Communication_Innovation.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = College_Social_Communication_Innovation.mp4; sourceTree = "<group>"; };
+		AF7DEB8E290C38C600C2960A /* Science.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Science.mp4; sourceTree = "<group>"; };
+		AF7DEB8F290C38C600C2960A /* International_College_Sustainability_Studies.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = International_College_Sustainability_Studies.mp4; sourceTree = "<group>"; };
+		AF7DEB90290C38C600C2960A /* College_Creative_Industry.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = College_Creative_Industry.mp4; sourceTree = "<group>"; };
+		AF7DEB91290C38C600C2960A /* Humanities.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Humanities.mp4; sourceTree = "<group>"; };
+		AF7DEB92290C38C600C2960A /* Engineering.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Engineering.mp4; sourceTree = "<group>"; };
+		AF7DEB93290C38C600C2960A /* Environmental_Culture_Ecotourism.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Environmental_Culture_Ecotourism.mp4; sourceTree = "<group>"; };
+		AF7DEB94290C38C600C2960A /* Dentistry.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Dentistry.mp4; sourceTree = "<group>"; };
 		AFEFD7AC290AFABB000A9C2E /* assignment6-swu-faculties.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "assignment6-swu-faculties.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFEFD7AF290AFABB000A9C2E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AFEFD7B1290AFABB000A9C2E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -214,6 +254,26 @@
 			isa = PBXGroup;
 			children = (
 				AF7DEB54290C349F00C2960A /* Agricultural_Product_Innovation_Technology.mp4 */,
+				AF7DEB80290C38B900C2960A /* Bodhivijjalaya_College.mp4 */,
+				AF7DEB85290C38C500C2960A /* Business_Administration_Society.mp4 */,
+				AF7DEB90290C38C600C2960A /* College_Creative_Industry.mp4 */,
+				AF7DEB8D290C38C500C2960A /* College_Social_Communication_Innovation.mp4 */,
+				AF7DEB94290C38C600C2960A /* Dentistry.mp4 */,
+				AF7DEB8C290C38C500C2960A /* Economics.mp4 */,
+				AF7DEB86290C38C500C2960A /* Education.mp4 */,
+				AF7DEB92290C38C600C2960A /* Engineering.mp4 */,
+				AF7DEB93290C38C600C2960A /* Environmental_Culture_Ecotourism.mp4 */,
+				AF7DEB84290C38C500C2960A /* Fine_Arts.mp4 */,
+				AF7DEB87290C38C500C2960A /* Graduate_School.mp4 */,
+				AF7DEB91290C38C600C2960A /* Humanities.mp4 */,
+				AF7DEB8F290C38C600C2960A /* International_College_Sustainability_Studies.mp4 */,
+				AF7DEB88290C38C500C2960A /* Medicine.mp4 */,
+				AF7DEB89290C38C500C2960A /* Nursing.mp4 */,
+				AF7DEB8B290C38C500C2960A /* Pharmacy.mp4 */,
+				AF7DEB83290C38C500C2960A /* Physical_Education.mp4 */,
+				AF7DEB82290C38C500C2960A /* Physical_Therapy.mp4 */,
+				AF7DEB8E290C38C600C2960A /* Science.mp4 */,
+				AF7DEB8A290C38C500C2960A /* Social_Sciences.mp4 */,
 			);
 			name = video;
 			sourceTree = "<group>";
@@ -323,27 +383,47 @@
 			buildActionMask = 2147483647;
 			files = (
 				AFEFD80A290B09DA000A9C2E /* SWU_Science_TH_Color.jpg in Resources */,
+				AF7DEB96290C38C600C2960A /* Physical_Education.mp4 in Resources */,
 				AFEFD7FB290B09DA000A9C2E /* SWU_Economics_TH_Color.jpg in Resources */,
 				AFEFD7FC290B09DA000A9C2E /* SWU_Agricultural_Product_Innovation_Technology_TH_Color.jpg in Resources */,
 				AFEFD80E290B09DA000A9C2E /* SWU_Fine_Arts_TH_Color.jpg in Resources */,
 				AFEFD7BC290AFABD000A9C2E /* LaunchScreen.storyboard in Resources */,
+				AF7DEB9A290C38C600C2960A /* Graduate_School.mp4 in Resources */,
 				AFEFD80C290B09DA000A9C2E /* SWU_Bodhivijjalaya_College_TH_Color.jpg in Resources */,
+				AF7DEBA4290C38C600C2960A /* Humanities.mp4 in Resources */,
+				AF7DEBA6290C38C600C2960A /* Environmental_Culture_Ecotourism.mp4 in Resources */,
+				AF7DEB81290C38B900C2960A /* Bodhivijjalaya_College.mp4 in Resources */,
 				AFEFD80B290B09DA000A9C2E /* SWU_Pharmacy_TH_Color.jpg in Resources */,
 				AFEFD7B9290AFABD000A9C2E /* Assets.xcassets in Resources */,
+				AF7DEBA7290C38C600C2960A /* Dentistry.mp4 in Resources */,
 				AFEFD803290B09DA000A9C2E /* SWU_Engineering_TH_Color.jpg in Resources */,
 				AF7DEB55290C349F00C2960A /* Agricultural_Product_Innovation_Technology.mp4 in Resources */,
+				AF7DEB98290C38C600C2960A /* Business_Administration_Society.mp4 in Resources */,
+				AF7DEB9B290C38C600C2960A /* Medicine.mp4 in Resources */,
 				AFEFD808290B09DA000A9C2E /* SWU_International_College_Sustainability_Studies_TH_Color.jpg in Resources */,
 				AFEFD802290B09DA000A9C2E /* SWU_Education_TH_Color.jpg in Resources */,
 				AFEFD80D290B09DA000A9C2E /* SWU_Physical_Education_TH_Color.jpg in Resources */,
+				AF7DEB9D290C38C600C2960A /* Social_Sciences.mp4 in Resources */,
 				AFEFD806290B09DA000A9C2E /* SWU_Dentistry_TH_Color.jpg in Resources */,
 				AFEFD805290B09DA000A9C2E /* SWU_Nursing_TH_Color.jpg in Resources */,
 				AFEFD804290B09DA000A9C2E /* SWU_Business_Administration_Society_TH_Color.jpg in Resources */,
 				AFEFD7FF290B09DA000A9C2E /* SWU_Medicine_TH_Color.jpg in Resources */,
+				AF7DEBA5290C38C600C2960A /* Engineering.mp4 in Resources */,
+				AF7DEB9C290C38C600C2960A /* Nursing.mp4 in Resources */,
+				AF7DEB97290C38C600C2960A /* Fine_Arts.mp4 in Resources */,
 				AFEFD7FA290B09DA000A9C2E /* SWU_College_Creative_Industry_TH_Color.jpg in Resources */,
+				AF7DEB9F290C38C600C2960A /* Economics.mp4 in Resources */,
 				AFEFD7FE290B09DA000A9C2E /* SWU_Environmental_Culture_Ecotourism_TH_Color.jpg in Resources */,
+				AF7DEBA1290C38C600C2960A /* Science.mp4 in Resources */,
+				AF7DEBA2290C38C600C2960A /* International_College_Sustainability_Studies.mp4 in Resources */,
 				AFEFD807290B09DA000A9C2E /* SWU_Social_Sciences_TH_Color.jpg in Resources */,
+				AF7DEB99290C38C600C2960A /* Education.mp4 in Resources */,
+				AF7DEBA0290C38C600C2960A /* College_Social_Communication_Innovation.mp4 in Resources */,
 				AFEFD7FD290B09DA000A9C2E /* SWU_Graduate_School_TH_Color.jpg in Resources */,
 				AFEFD809290B09DA000A9C2E /* SWU_Humanities_TH_Color.jpg in Resources */,
+				AF7DEBA3290C38C600C2960A /* College_Creative_Industry.mp4 in Resources */,
+				AF7DEB95290C38C600C2960A /* Physical_Therapy.mp4 in Resources */,
+				AF7DEB9E290C38C600C2960A /* Pharmacy.mp4 in Resources */,
 				AFEFD800290B09DA000A9C2E /* SWU_Physical_Therapy_TH_Color.jpg in Resources */,
 				AFEFD7B7290AFABB000A9C2E /* Main.storyboard in Resources */,
 				AFEFD801290B09DA000A9C2E /* SWU_College_Social_Communication_Innovation_TH_Color.jpg in Resources */,
