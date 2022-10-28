@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF7DEB55290C349F00C2960A /* Agricultural_Product_Innovation_Technology.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF7DEB54290C349F00C2960A /* Agricultural_Product_Innovation_Technology.mp4 */; };
 		AFEFD7B0290AFABB000A9C2E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFEFD7AF290AFABB000A9C2E /* AppDelegate.swift */; };
 		AFEFD7B2290AFABB000A9C2E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFEFD7B1290AFABB000A9C2E /* SceneDelegate.swift */; };
 		AFEFD7B4290AFABB000A9C2E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFEFD7B3290AFABB000A9C2E /* ViewController.swift */; };
@@ -60,6 +61,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AF7DEB54290C349F00C2960A /* Agricultural_Product_Innovation_Technology.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Agricultural_Product_Innovation_Technology.mp4; sourceTree = "<group>"; };
 		AFEFD7AC290AFABB000A9C2E /* assignment6-swu-faculties.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "assignment6-swu-faculties.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFEFD7AF290AFABB000A9C2E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AFEFD7B1290AFABB000A9C2E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -211,6 +213,7 @@
 		AFEFD810290B0EC9000A9C2E /* video */ = {
 			isa = PBXGroup;
 			children = (
+				AF7DEB54290C349F00C2960A /* Agricultural_Product_Innovation_Technology.mp4 */,
 			);
 			name = video;
 			sourceTree = "<group>";
@@ -328,6 +331,7 @@
 				AFEFD80B290B09DA000A9C2E /* SWU_Pharmacy_TH_Color.jpg in Resources */,
 				AFEFD7B9290AFABD000A9C2E /* Assets.xcassets in Resources */,
 				AFEFD803290B09DA000A9C2E /* SWU_Engineering_TH_Color.jpg in Resources */,
+				AF7DEB55290C349F00C2960A /* Agricultural_Product_Innovation_Technology.mp4 in Resources */,
 				AFEFD808290B09DA000A9C2E /* SWU_International_College_Sustainability_Studies_TH_Color.jpg in Resources */,
 				AFEFD802290B09DA000A9C2E /* SWU_Education_TH_Color.jpg in Resources */,
 				AFEFD80D290B09DA000A9C2E /* SWU_Physical_Education_TH_Color.jpg in Resources */,
