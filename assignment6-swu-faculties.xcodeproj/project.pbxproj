@@ -40,7 +40,6 @@
 		AFEFD80C290B09DA000A9C2E /* SWU_Bodhivijjalaya_College_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7F7290B09D9000A9C2E /* SWU_Bodhivijjalaya_College_TH_Color.jpg */; };
 		AFEFD80D290B09DA000A9C2E /* SWU_Physical_Education_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7F8290B09D9000A9C2E /* SWU_Physical_Education_TH_Color.jpg */; };
 		AFEFD80E290B09DA000A9C2E /* SWU_Fine_Arts_TH_Color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD7F9290B09DA000A9C2E /* SWU_Fine_Arts_TH_Color.jpg */; };
-		AFEFD812290B0EE8000A9C2E /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AFEFD811290B0EE8000A9C2E /* test.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -98,7 +97,6 @@
 		AFEFD7F7290B09D9000A9C2E /* SWU_Bodhivijjalaya_College_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Bodhivijjalaya_College_TH_Color.jpg; sourceTree = "<group>"; };
 		AFEFD7F8290B09D9000A9C2E /* SWU_Physical_Education_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Physical_Education_TH_Color.jpg; sourceTree = "<group>"; };
 		AFEFD7F9290B09DA000A9C2E /* SWU_Fine_Arts_TH_Color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SWU_Fine_Arts_TH_Color.jpg; sourceTree = "<group>"; };
-		AFEFD811290B0EE8000A9C2E /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -213,7 +211,6 @@
 		AFEFD810290B0EC9000A9C2E /* video */ = {
 			isa = PBXGroup;
 			children = (
-				AFEFD811290B0EE8000A9C2E /* test.mp4 */,
 			);
 			name = video;
 			sourceTree = "<group>";
@@ -335,7 +332,6 @@
 				AFEFD802290B09DA000A9C2E /* SWU_Education_TH_Color.jpg in Resources */,
 				AFEFD80D290B09DA000A9C2E /* SWU_Physical_Education_TH_Color.jpg in Resources */,
 				AFEFD806290B09DA000A9C2E /* SWU_Dentistry_TH_Color.jpg in Resources */,
-				AFEFD812290B0EE8000A9C2E /* test.mp4 in Resources */,
 				AFEFD805290B09DA000A9C2E /* SWU_Nursing_TH_Color.jpg in Resources */,
 				AFEFD804290B09DA000A9C2E /* SWU_Business_Administration_Society_TH_Color.jpg in Resources */,
 				AFEFD7FF290B09DA000A9C2E /* SWU_Medicine_TH_Color.jpg in Resources */,
